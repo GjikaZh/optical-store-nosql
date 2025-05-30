@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6836f066694bf0feed914d31"
+  },
+  "client_id": "CL0002",
+  "invoice_id": "IN0045",
+  "purchase_number": 100001
+},
+{
+  "_id": {
+    "$oid": "6836f066694bf0feed914d32"
+  },
+  "client_id": "CL0003",
+  "invoice_id": "IN0049",
+  "purchase_number": 100005
+},
+{
+  "_id": {
+    "$oid": "6836f066694bf0feed914d33"
+  },
+  "client_id": "CL0005",
+  "invoice_id": "IN0046",
+  "purchase_number": 100002
+},
+{
+  "_id": {
+    "$oid": "6836f066694bf0feed914d34"
+  },
+  "client_id": "CL0006",
+  "invoice_id": "IN0050",
+  "purchase_number": 100006
+},
+{
+  "_id": {
+    "$oid": "6836f066694bf0feed914d35"
+  },
+  "client_id": "CL0007",
+  "invoice_id": "IN0048",
+  "purchase_number": 100004
+},
+{
+  "_id": {
+    "$oid": "6836f066694bf0feed914d36"
+  },
+  "client_id": "CL0009",
+  "invoice_id": "IN0047",
+  "purchase_number": 100003
+}]

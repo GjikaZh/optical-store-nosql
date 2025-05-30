@@ -1,0 +1,160 @@
+[{
+  "_id": "CL0001",
+  "name": "Andrea Swift",
+  "birthday": "1989-03-15",
+  "phone": "071388612",
+  "address": "Leshke-Tetovo-1036",
+  "sales_worker_id": "SW0011"
+},
+{
+  "_id": "CL0002",
+  "name": "Reanna Jenkin",
+  "birthday": "2001-11-22",
+  "phone": "072345986",
+  "address": "Arbana-Tirana-1024",
+  "sales_worker_id": "SW0012"
+},
+{
+  "_id": "CL0003",
+  "name": "Phil Foden",
+  "birthday": "1974-02-19",
+  "phone": "075249800",
+  "address": "Topoje-Lezhe-1052",
+  "sales_worker_id": "SW0013"
+},
+{
+  "_id": "CL0004",
+  "name": "Dorea Beckham",
+  "birthday": "2008-06-02",
+  "phone": "078541993",
+  "address": "Kukes-Tirane-1131",
+  "sales_worker_id": "SW0014"
+},
+{
+  "_id": "CL0005",
+  "name": "Cole Palmer",
+  "birthday": "1981-07-27",
+  "phone": "072444366",
+  "address": "Sarande-Vlore-2003",
+  "sales_worker_id": "SW0015"
+},
+{
+  "_id": "CL0006",
+  "name": "Breanna Mainor",
+  "birthday": "2009-12-31",
+  "phone": "072712814",
+  "address": "Lezhe-Tirane-2143",
+  "sales_worker_id": "SW0012"
+},
+{
+  "_id": "CL0007",
+  "name": "Louisa Legend",
+  "birthday": "1999-11-02",
+  "phone": "071100736",
+  "address": "Cair-Shkup-1225",
+  "sales_worker_id": "SW0017"
+},
+{
+  "_id": "CL0008",
+  "name": "Harry Kane",
+  "birthday": "1985-10-31",
+  "phone": "075696996",
+  "address": "Veleshte-Struge-6330",
+  "sales_worker_id": "SW0018"
+},
+{
+  "_id": "CL0009",
+  "name": "Reagan Clarkson",
+  "birthday": "1975-09-11",
+  "phone": "078872321",
+  "address": "Cegran-Gostivar-1230",
+  "sales_worker_id": "SW0012"
+},
+{
+  "_id": "CL0010",
+  "name": "Ella Elainor",
+  "birthday": "1987-04-01",
+  "phone": "077388921",
+  "address": "Berzaku-Kumanove-3215",
+  "sales_worker_id": "SW0020"
+},
+{
+  "_id": "CL0011",
+  "name": "Liam Anderson",
+  "birthday": "1992-05-14",
+  "phone": "071223344",
+  "address": "Tirane-1001",
+  "sales_worker_id": "SW0011"
+},
+{
+  "_id": "CL0012",
+  "name": "Nora Mitchell",
+  "birthday": "2000-01-08",
+  "phone": "072334455",
+  "address": "Bllace-Tetovo-1035",
+  "sales_worker_id": "SW0014"
+},
+{
+  "_id": "CL0013",
+  "name": "Ethan Bennett",
+  "birthday": "1983-03-22",
+  "phone": "075667788",
+  "address": "Korce-7001",
+  "sales_worker_id": "SW0015"
+},
+{
+  "_id": "CL0014",
+  "name": "Sophia Williams",
+  "birthday": "1996-08-10",
+  "phone": "071998877",
+  "address": "Ferizaj-Prishtine-3002",
+  "sales_worker_id": "SW0016"
+},
+{
+  "_id": "CL0015",
+  "name": "Mila Stone",
+  "birthday": "1989-12-02",
+  "phone": "076112233",
+  "address": "Elbasan-5004",
+  "sales_worker_id": "SW0013"
+},
+{
+  "_id": "CL0016",
+  "name": "James Morris",
+  "birthday": "1978-07-09",
+  "phone": "071445566",
+  "address": "Diber-Tirane-1205",
+  "sales_worker_id": "SW0019"
+},
+{
+  "_id": "CL0017",
+  "name": "Ava Nelson",
+  "birthday": "1995-10-25",
+  "phone": "072998877",
+  "address": "Tirane-1010",
+  "sales_worker_id": "SW0020"
+},
+{
+  "_id": "CL0018",
+  "name": "Noah Carter",
+  "birthday": "2003-02-16",
+  "phone": "073223344",
+  "address": "Bulqize-Diber-6300",
+  "sales_worker_id": "SW0018"
+},
+{
+  "_id": "CL0019",
+  "name": "Emma Morgan",
+  "birthday": "1991-06-04",
+  "phone": "071334455",
+  "address": "Gjirokaster-6002",
+  "sales_worker_id": "SW0017"
+},
+{
+  "_id": "CL0020",
+  "name": "Lucas Reed",
+  "birthday": "1984-09-30",
+  "phone": "074556677",
+  "address": "Laprake-Tirane-1100",
+  "sales_worker_id": "SW0016"
+}]

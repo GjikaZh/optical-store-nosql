@@ -1,0 +1,200 @@
+[{
+  "_id": "EX0035",
+  "right_eye_prescription": 1.25,
+  "left_eye_prescription": 1.5,
+  "date": "2023-05-01",
+  "time": "09:00:00.0000000",
+  "type": "Routine Check-up",
+  "client_id": "CL0001",
+  "medical_worker_id": "MW0021"
+},
+{
+  "_id": "EX0036",
+  "right_eye_prescription": -0.75,
+  "left_eye_prescription": -0.5,
+  "date": "2023-08-08",
+  "time": "10:30:15.0000000",
+  "type": "Follow-up",
+  "client_id": "CL0005",
+  "medical_worker_id": "MW0022"
+},
+{
+  "_id": "EX0037",
+  "right_eye_prescription": 2,
+  "left_eye_prescription": 1.75,
+  "date": "2024-01-01",
+  "time": "11:15:40.0000000",
+  "type": "Initial Consultation",
+  "client_id": "CL0007",
+  "medical_worker_id": "MW0023"
+},
+{
+  "_id": "EX0038",
+  "right_eye_prescription": 0.25,
+  "left_eye_prescription": 0.5,
+  "date": "2024-02-17",
+  "time": "19:30:00.0000000",
+  "type": "Routine Check-up",
+  "client_id": "CL0003",
+  "medical_worker_id": "MW0024"
+},
+{
+  "_id": "EX0039",
+  "right_eye_prescription": -1.25,
+  "left_eye_prescription": -1.5,
+  "date": "2023-11-01",
+  "time": "20:00:00.0000000",
+  "type": "Follow-up",
+  "client_id": "CL0009",
+  "medical_worker_id": "MW0025"
+},
+{
+  "_id": "EX0040",
+  "right_eye_prescription": 2.25,
+  "left_eye_prescription": 2.5,
+  "date": "2023-05-09",
+  "time": "12:45:00.0000000",
+  "type": "Initial Consultation",
+  "client_id": "CL0002",
+  "medical_worker_id": "MW0021"
+},
+{
+  "_id": "EX0041",
+  "right_eye_prescription": -3.5,
+  "left_eye_prescription": -3.5,
+  "date": "2023-05-01",
+  "time": "13:25:30.0000000",
+  "type": "Routine Check-up",
+  "client_id": "CL0010",
+  "medical_worker_id": "MW0022"
+},
+{
+  "_id": "EX0042",
+  "right_eye_prescription": 2.25,
+  "left_eye_prescription": 2.5,
+  "date": "2023-05-19",
+  "time": "12:45:00.0000000",
+  "type": "Follow-up",
+  "client_id": "CL0008",
+  "medical_worker_id": "MW0023"
+},
+{
+  "_id": "EX0043",
+  "right_eye_prescription": 2.25,
+  "left_eye_prescription": 2.5,
+  "date": "2024-04-18",
+  "time": "14:20:00.0000000",
+  "type": "Initial Consultation",
+  "client_id": "CL0006",
+  "medical_worker_id": "MW0024"
+},
+{
+  "_id": "EX0044",
+  "right_eye_prescription": -2,
+  "left_eye_prescription": -2.5,
+  "date": "2024-05-01",
+  "time": "17:10:10.0000000",
+  "type": "Routine Check-up",
+  "client_id": "CL0004",
+  "medical_worker_id": "MW0025"
+},
+{
+  "_id": "EX0045",
+  "right_eye_prescription": 0,
+  "left_eye_prescription": 0,
+  "date": "2024-06-05",
+  "time": "08:00:00.0000000",
+  "type": "Routine Check-up",
+  "client_id": "CL0011",
+  "medical_worker_id": "MG0026"
+},
+{
+  "_id": "EX0046",
+  "right_eye_prescription": -1.75,
+  "left_eye_prescription": -1.25,
+  "date": "2024-07-10",
+  "time": "09:15:30.0000000",
+  "type": "Follow-up",
+  "client_id": "CL0012",
+  "medical_worker_id": "MG0027"
+},
+{
+  "_id": "EX0047",
+  "right_eye_prescription": 1.75,
+  "left_eye_prescription": 1.5,
+  "date": "2024-08-12",
+  "time": "10:30:00.0000000",
+  "type": "Initial Consultation",
+  "client_id": "CL0013",
+  "medical_worker_id": "MG0028"
+},
+{
+  "_id": "EX0048",
+  "right_eye_prescription": -0.25,
+  "left_eye_prescription": -0.25,
+  "date": "2024-09-01",
+  "time": "11:45:00.0000000",
+  "type": "Routine Check-up",
+  "client_id": "CL0014",
+  "medical_worker_id": "MG0029"
+},
+{
+  "_id": "EX0049",
+  "right_eye_prescription": -2.25,
+  "left_eye_prescription": -2.75,
+  "date": "2024-09-15",
+  "time": "13:00:00.0000000",
+  "type": "Follow-up",
+  "client_id": "CL0015",
+  "medical_worker_id": "MG0030"
+},
+{
+  "_id": "EX0050",
+  "right_eye_prescription": 3,
+  "left_eye_prescription": 2.75,
+  "date": "2024-10-01",
+  "time": "14:30:00.0000000",
+  "type": "Initial Consultation",
+  "client_id": "CL0016",
+  "medical_worker_id": "MW0021"
+},
+{
+  "_id": "EX0051",
+  "right_eye_prescription": -0.5,
+  "left_eye_prescription": 0.25,
+  "date": "2024-11-11",
+  "time": "15:45:00.0000000",
+  "type": "Routine Check-up",
+  "client_id": "CL0017",
+  "medical_worker_id": "MW0022"
+},
+{
+  "_id": "EX0052",
+  "right_eye_prescription": 1,
+  "left_eye_prescription": 1.25,
+  "date": "2024-11-25",
+  "time": "16:10:10.0000000",
+  "type": "Follow-up",
+  "client_id": "CL0018",
+  "medical_worker_id": "MW0023"
+},
+{
+  "_id": "EX0053",
+  "right_eye_prescription": -1,
+  "left_eye_prescription": -1,
+  "date": "2024-12-05",
+  "time": "17:20:00.0000000",
+  "type": "Routine Check-up",
+  "client_id": "CL0019",
+  "medical_worker_id": "MW0024"
+},
+{
+  "_id": "EX0054",
+  "right_eye_prescription": 2.5,
+  "left_eye_prescription": 2,
+  "date": "2025-01-01",
+  "time": "18:35:00.0000000",
+  "type": "Initial Consultation",
+  "client_id": "CL0020",
+  "medical_worker_id": "MW0025"
+}]

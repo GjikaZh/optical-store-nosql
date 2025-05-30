@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6836f0cdc57b013910a37dc9"
+  },
+  "product_id": "PR0045",
+  "invoice_id": "IN0039",
+  "purchase_number": 100001
+},
+{
+  "_id": {
+    "$oid": "6836f0cdc57b013910a37dca"
+  },
+  "product_id": "PR0045",
+  "invoice_id": "IN0043",
+  "purchase_number": 100005
+},
+{
+  "_id": {
+    "$oid": "6836f0cdc57b013910a37dcb"
+  },
+  "product_id": "PR0046",
+  "invoice_id": "IN0040",
+  "purchase_number": 100002
+},
+{
+  "_id": {
+    "$oid": "6836f0cdc57b013910a37dcc"
+  },
+  "product_id": "PR0046",
+  "invoice_id": "IN0044",
+  "purchase_number": 100006
+},
+{
+  "_id": {
+    "$oid": "6836f0cdc57b013910a37dcd"
+  },
+  "product_id": "PR0049",
+  "invoice_id": "IN0041",
+  "purchase_number": 100003
+},
+{
+  "_id": {
+    "$oid": "6836f0cdc57b013910a37dce"
+  },
+  "product_id": "PR0051",
+  "invoice_id": "IN0042",
+  "purchase_number": 100004
+}]

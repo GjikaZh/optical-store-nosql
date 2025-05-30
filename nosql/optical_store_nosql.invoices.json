@@ -1,0 +1,180 @@
+[{
+  "_id": "IN0045",
+  "date": "2023-10-29",
+  "quantity": 10,
+  "total": 200,
+  "taxes": 5.75,
+  "client_id": "CL0002",
+  "sales_worker_id": "SW0012"
+},
+{
+  "_id": "IN0046",
+  "date": "2024-02-17",
+  "quantity": 5,
+  "total": 250,
+  "taxes": 12.3,
+  "client_id": "CL0005",
+  "sales_worker_id": "SW0015"
+},
+{
+  "_id": "IN0047",
+  "date": "2023-11-01",
+  "quantity": 8,
+  "total": 350,
+  "taxes": 8.99,
+  "client_id": "CL0009",
+  "sales_worker_id": "SW0019"
+},
+{
+  "_id": "IN0048",
+  "date": "2024-01-01",
+  "quantity": 2,
+  "total": 150.5,
+  "taxes": 15.5,
+  "client_id": "CL0007",
+  "sales_worker_id": "SW0017"
+},
+{
+  "_id": "IN0049",
+  "date": "2024-02-17",
+  "quantity": 4,
+  "total": 300,
+  "taxes": 11.45,
+  "client_id": "CL0003",
+  "sales_worker_id": "SW0013"
+},
+{
+  "_id": "IN0050",
+  "date": "2024-04-18",
+  "quantity": 9,
+  "total": 210,
+  "taxes": 9.99,
+  "client_id": "CL0006",
+  "sales_worker_id": "SW0016"
+},
+{
+  "_id": "IN0051",
+  "date": "2024-03-10",
+  "quantity": 3,
+  "total": 180,
+  "taxes": 6.5,
+  "client_id": "CL0001",
+  "sales_worker_id": "SW0011"
+},
+{
+  "_id": "IN0052",
+  "date": "2024-03-15",
+  "quantity": 7,
+  "total": 275,
+  "taxes": 7.25,
+  "client_id": "CL0004",
+  "sales_worker_id": "SW0014"
+},
+{
+  "_id": "IN0053",
+  "date": "2024-03-20",
+  "quantity": 6,
+  "total": 230,
+  "taxes": 10,
+  "client_id": "CL0008",
+  "sales_worker_id": "SW0018"
+},
+{
+  "_id": "IN0054",
+  "date": "2024-03-25",
+  "quantity": 1,
+  "total": 100,
+  "taxes": 4.5,
+  "client_id": "CL0010",
+  "sales_worker_id": "SW0020"
+},
+{
+  "_id": "IN0055",
+  "date": "2024-03-30",
+  "quantity": 2,
+  "total": 120,
+  "taxes": 5,
+  "client_id": "CL0011",
+  "sales_worker_id": "SW0011"
+},
+{
+  "_id": "IN0056",
+  "date": "2024-04-04",
+  "quantity": 5,
+  "total": 195,
+  "taxes": 6.95,
+  "client_id": "CL0012",
+  "sales_worker_id": "SW0012"
+},
+{
+  "_id": "IN0057",
+  "date": "2024-04-08",
+  "quantity": 8,
+  "total": 260,
+  "taxes": 9.75,
+  "client_id": "CL0013",
+  "sales_worker_id": "SW0013"
+},
+{
+  "_id": "IN0058",
+  "date": "2024-04-12",
+  "quantity": 4,
+  "total": 220,
+  "taxes": 7.8,
+  "client_id": "CL0014",
+  "sales_worker_id": "SW0014"
+},
+{
+  "_id": "IN0059",
+  "date": "2024-04-16",
+  "quantity": 3,
+  "total": 205,
+  "taxes": 5.65,
+  "client_id": "CL0015",
+  "sales_worker_id": "SW0015"
+},
+{
+  "_id": "IN0060",
+  "date": "2024-04-20",
+  "quantity": 9,
+  "total": 345,
+  "taxes": 8.1,
+  "client_id": "CL0016",
+  "sales_worker_id": "SW0016"
+},
+{
+  "_id": "IN0061",
+  "date": "2024-04-24",
+  "quantity": 6,
+  "total": 298,
+  "taxes": 9,
+  "client_id": "CL0017",
+  "sales_worker_id": "SW0017"
+},
+{
+  "_id": "IN0062",
+  "date": "2024-04-28",
+  "quantity": 5,
+  "total": 270,
+  "taxes": 7.4,
+  "client_id": "CL0018",
+  "sales_worker_id": "SW0018"
+},
+{
+  "_id": "IN0063",
+  "date": "2024-05-02",
+  "quantity": 7,
+  "total": 315,
+  "taxes": 10.15,
+  "client_id": "CL0019",
+  "sales_worker_id": "SW0019"
+},
+{
+  "_id": "IN0064",
+  "date": "2024-05-06",
+  "quantity": 4,
+  "total": 240,
+  "taxes": 6.25,
+  "client_id": "CL0020",
+  "sales_worker_id": "SW0020"
+}]
