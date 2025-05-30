@@ -1,4 +1,3 @@
-```markdown
 # optical-store-nosql
 Migration of Optical Store Management System from SQL Server to MongoDB
 
@@ -6,7 +5,6 @@ Migration of Optical Store Management System from SQL Server to MongoDB
 The objective of this project is to demonstrate practical knowledge of both relational and non-relational database systems by migrating an Optical Store Management System from SQL Server to a NoSQL database (MongoDB). This involves database design, modeling, data population, and programmatic migration, along with documentation and presentation of the entire process.
 
 ## 📁 Project Structure
-```
 
 optical-store-nosql/
 ├── sql/
@@ -37,8 +35,6 @@ optical-store-nosql/
 │   ├── Query Results
 │   └── Documentation
 └── README.md
-
-````
 
 ## 🏗️ Relational Database Design and Modeling
 - **Database:** `NOSQL_PROJECT_OPTICAL` (SQL Server)
