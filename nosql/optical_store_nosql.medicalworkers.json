@@ -1,0 +1,25 @@
+[{
+  "_id": "MW0021",
+  "office": "A101",
+  "specialization": "Optometrist"
+},
+{
+  "_id": "MW0022",
+  "office": "A102",
+  "specialization": "Optician"
+},
+{
+  "_id": "MW0023",
+  "office": "A103",
+  "specialization": "Ophthalmologist"
+},
+{
+  "_id": "MW0024",
+  "office": "A104",
+  "specialization": "Orthoptist"
+},
+{
+  "_id": "MW0025",
+  "office": "A105",
+  "specialization": "Ocularist"
+}]

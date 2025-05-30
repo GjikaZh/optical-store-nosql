@@ -1,0 +1,48 @@
+[{
+  "_id": "SL0011",
+  "name": "Dorothea",
+  "phone": "073455615",
+  "contract_start": "2023-01-01",
+  "contract_end": "2024-01-01",
+  "manager_id": "MG0026"
+},
+{
+  "_id": "SL0012",
+  "name": "Joe",
+  "phone": "078351414",
+  "contract_start": "2021-03-15",
+  "contract_end": "2024-02-07",
+  "manager_id": "MG0027"
+},
+{
+  "_id": "SL0013",
+  "name": "Jane",
+  "phone": "072857396",
+  "contract_start": "2020-09-12",
+  "contract_end": "2024-01-07",
+  "manager_id": "MG0028"
+},
+{
+  "_id": "SL0014",
+  "name": "Roy",
+  "phone": "070155915",
+  "contract_start": "2021-11-11",
+  "contract_end": "2024-05-15",
+  "manager_id": "MG0026"
+},
+{
+  "_id": "SL0015",
+  "name": "Demi",
+  "phone": "075219888",
+  "contract_start": "2019-06-22",
+  "contract_end": "2023-12-12",
+  "manager_id": "MG0028"
+},
+{
+  "_id": "SL0016",
+  "name": "Dylan",
+  "phone": "070212419",
+  "contract_start": "2020-10-15",
+  "contract_end": "2021-10-27",
+  "manager_id": "MG0027"
+}]

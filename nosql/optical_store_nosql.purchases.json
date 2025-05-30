@@ -1,0 +1,140 @@
+[{
+  "_id": 100001,
+  "date": "2023-10-29",
+  "time": "14:00:00.0000000",
+  "invoice_id": "IN0045",
+  "sales_worker_id": "SW0015"
+},
+{
+  "_id": 100007,
+  "date": "2023-09-01",
+  "time": "09:00:00.0000000",
+  "invoice_id": "IN0045",
+  "sales_worker_id": "SW0011"
+},
+{
+  "_id": 100013,
+  "date": "2024-05-01",
+  "time": "16:00:00.0000000",
+  "invoice_id": "IN0045",
+  "sales_worker_id": "SW0013"
+},
+{
+  "_id": 100019,
+  "date": "2024-03-22",
+  "time": "21:10:00.0000000",
+  "invoice_id": "IN0045",
+  "sales_worker_id": "SW0019"
+},
+{
+  "_id": 100002,
+  "date": "2024-02-17",
+  "time": "20:00:00.0000000",
+  "invoice_id": "IN0046",
+  "sales_worker_id": "SW0019"
+},
+{
+  "_id": 100008,
+  "date": "2023-12-12",
+  "time": "10:15:00.0000000",
+  "invoice_id": "IN0046",
+  "sales_worker_id": "SW0012"
+},
+{
+  "_id": 100014,
+  "date": "2024-05-02",
+  "time": "17:25:00.0000000",
+  "invoice_id": "IN0046",
+  "sales_worker_id": "SW0014"
+},
+{
+  "_id": 100020,
+  "date": "2024-02-12",
+  "time": "07:25:00.0000000",
+  "invoice_id": "IN0046",
+  "sales_worker_id": "SW0020"
+},
+{
+  "_id": 100003,
+  "date": "2023-11-01",
+  "time": "20:30:00.0000000",
+  "invoice_id": "IN0047",
+  "sales_worker_id": "SW0017"
+},
+{
+  "_id": 100009,
+  "date": "2024-01-15",
+  "time": "15:30:00.0000000",
+  "invoice_id": "IN0047",
+  "sales_worker_id": "SW0014"
+},
+{
+  "_id": 100015,
+  "date": "2023-06-14",
+  "time": "08:50:00.0000000",
+  "invoice_id": "IN0047",
+  "sales_worker_id": "SW0015"
+},
+{
+  "_id": 100004,
+  "date": "2024-01-01",
+  "time": "11:45:00.0000000",
+  "invoice_id": "IN0048",
+  "sales_worker_id": "SW0013"
+},
+{
+  "_id": 100010,
+  "date": "2024-03-10",
+  "time": "12:00:00.0000000",
+  "invoice_id": "IN0048",
+  "sales_worker_id": "SW0018"
+},
+{
+  "_id": 100016,
+  "date": "2023-08-08",
+  "time": "18:15:00.0000000",
+  "invoice_id": "IN0048",
+  "sales_worker_id": "SW0016"
+},
+{
+  "_id": 100005,
+  "date": "2024-02-17",
+  "time": "20:10:00.0000000",
+  "invoice_id": "IN0049",
+  "sales_worker_id": "SW0019"
+},
+{
+  "_id": 100011,
+  "date": "2023-07-20",
+  "time": "13:10:00.0000000",
+  "invoice_id": "IN0049",
+  "sales_worker_id": "SW0020"
+},
+{
+  "_id": 100017,
+  "date": "2023-10-05",
+  "time": "19:45:00.0000000",
+  "invoice_id": "IN0049",
+  "sales_worker_id": "SW0017"
+},
+{
+  "_id": 100006,
+  "date": "2024-04-18",
+  "time": "14:35:00.0000000",
+  "invoice_id": "IN0050",
+  "sales_worker_id": "SW0016"
+},
+{
+  "_id": 100012,
+  "date": "2023-11-25",
+  "time": "11:40:00.0000000",
+  "invoice_id": "IN0050",
+  "sales_worker_id": "SW0012"
+},
+{
+  "_id": 100018,
+  "date": "2024-04-28",
+  "time": "20:30:00.0000000",
+  "invoice_id": "IN0050",
+  "sales_worker_id": "SW0018"
+}]

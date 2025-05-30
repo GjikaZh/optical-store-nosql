@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6836f089658979f5ca1363f9"
+  },
+  "supplier_id": "SL0011",
+  "product_id": "PR0051"
+},
+{
+  "_id": {
+    "$oid": "6836f089658979f5ca1363fa"
+  },
+  "supplier_id": "SL0012",
+  "product_id": "PR0052"
+},
+{
+  "_id": {
+    "$oid": "6836f089658979f5ca1363fb"
+  },
+  "supplier_id": "SL0012",
+  "product_id": "PR0057"
+},
+{
+  "_id": {
+    "$oid": "6836f089658979f5ca1363fc"
+  },
+  "supplier_id": "SL0012",
+  "product_id": "PR0059"
+},
+{
+  "_id": {
+    "$oid": "6836f089658979f5ca1363fd"
+  },
+  "supplier_id": "SL0013",
+  "product_id": "PR0051"
+},
+{
+  "_id": {
+    "$oid": "6836f089658979f5ca1363fe"
+  },
+  "supplier_id": "SL0013",
+  "product_id": "PR0053"
+},
+{
+  "_id": {
+    "$oid": "6836f089658979f5ca1363ff"
+  },
+  "supplier_id": "SL0014",
+  "product_id": "PR0054"
+},
+{
+  "_id": {
+    "$oid": "6836f089658979f5ca136400"
+  },
+  "supplier_id": "SL0015",
+  "product_id": "PR0051"
+},
+{
+  "_id": {
+    "$oid": "6836f089658979f5ca136401"
+  },
+  "supplier_id": "SL0015",
+  "product_id": "PR0058"
+},
+{
+  "_id": {
+    "$oid": "6836f089658979f5ca136402"
+  },
+  "supplier_id": "SL0016",
+  "product_id": "PR0056"
+}]

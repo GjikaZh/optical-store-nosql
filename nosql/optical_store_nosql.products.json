@@ -1,0 +1,140 @@
+[{
+  "_id": "PR0051",
+  "name": "Sunglasses",
+  "price": 125,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0052",
+  "name": "Polarized Sunglasses",
+  "price": 200,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0053",
+  "name": "Contact Lenses",
+  "price": 30,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0054",
+  "name": "Blue Light Glasses",
+  "price": 300,
+  "type": "Eyewear",
+  "available": false
+},
+{
+  "_id": "PR0055",
+  "name": "Photochromic Lenses",
+  "price": 50,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0056",
+  "name": "Sports Glasses",
+  "price": 130,
+  "type": "Eyewear",
+  "available": false
+},
+{
+  "_id": "PR0057",
+  "name": "Prescription Glasses",
+  "price": 200,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0058",
+  "name": "Frames",
+  "price": 90,
+  "type": "Eyewear",
+  "available": false
+},
+{
+  "_id": "PR0059",
+  "name": "Swim Goggles",
+  "price": 95,
+  "type": "Eyewear",
+  "available": false
+},
+{
+  "_id": "PR0060",
+  "name": "3D Glasses",
+  "price": 350,
+  "type": "Eyewear",
+  "available": false
+},
+{
+  "_id": "PR0061",
+  "name": "Reading Glasses",
+  "price": 75,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0062",
+  "name": "Driving Glasses",
+  "price": 150,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0063",
+  "name": "Kids Glasses",
+  "price": 60,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0064",
+  "name": "Safety Glasses",
+  "price": 85,
+  "type": "Eyewear",
+  "available": false
+},
+{
+  "_id": "PR0065",
+  "name": "Anti-Glare Glasses",
+  "price": 120,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0066",
+  "name": "VR Headset Lenses",
+  "price": 250,
+  "type": "Eyewear",
+  "available": false
+},
+{
+  "_id": "PR0067",
+  "name": "Bifocal Lenses",
+  "price": 180,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0068",
+  "name": "Trifocal Lenses",
+  "price": 220,
+  "type": "Eyewear",
+  "available": true
+},
+{
+  "_id": "PR0069",
+  "name": "Lens Cleaner Kit",
+  "price": 15,
+  "type": "Accessory",
+  "available": true
+},
+{
+  "_id": "PR0070",
+  "name": "Eyewear Case",
+  "price": 20,
+  "type": "Accessory",
+  "available": true
+}]
