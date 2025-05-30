@@ -4,7 +4,12 @@ Migration of Optical Store Management System from SQL Server to MongoDB
 ## 📌 Project Objective
 The objective of this project is to demonstrate practical knowledge of both relational and non-relational database systems by migrating an Optical Store Management System from SQL Server to a NoSQL database (MongoDB). This involves database design, modeling, data population, and programmatic migration, along with documentation and presentation of the entire process.
 
+Absolutely! Here's the **clean and corrected version** of your markdown project structure with proper formatting — including indentation, escaping, and readability:
+
+
 ## 📁 Project Structure
+
+```markdown
 
 optical-store-nosql/
 ├── sql/
@@ -32,9 +37,11 @@ optical-store-nosql/
 │   ├── optical\_store\_nosql.invoices
 │   └── ...
 ├── docs/
-│   ├── Query Results
-│   └── Documentation
+│   ├── Query Results/
+│   └── Documentation/
 └── README.md
+
+```
 
 ## 🏗️ Relational Database Design and Modeling
 - **Database:** `NOSQL_PROJECT_OPTICAL` (SQL Server)
@@ -73,14 +80,12 @@ MongoDB document files are stored under the `/nosql` folder.
 Scripts include exception handling and basic verification.
 
 ## ▶️ How to Run
-# Clone the repository
-git clone https://github.com/GjikaZh/optical-store-nosql.git
-cd optical-store-nosql
-# Run Docker and launch MongoDB container (if not using a local instance)
-# Open the project in VS Code or PyCharm
-# Install required libraries pip install pymongo pyodbc
-# Run migration scripts one by one
-# Use MongoDB Compass or the Mongo shell to inspect inserted documents
+- Clone the repository git clone https://github.com/GjikaZh/optical-store-nosql.git then cd optical-store-nosql
+- Run Docker and launch MongoDB container (if not using a local instance)
+- Open the project in VS Code or PyCharm
+- Install required libraries pip install pymongo pyodbc
+- Run migration scripts one by one
+- Use MongoDB Compass or the Mongo shell to inspect inserted documents
 
 ## 👥 Contributors
 * **Merita Aliu** –  ma30931@seeu.edu.mk
