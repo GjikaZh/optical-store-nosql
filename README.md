@@ -4,8 +4,6 @@ Migration of Optical Store Management System from SQL Server to MongoDB
 ## 📌 Project Objective
 The objective of this project is to demonstrate practical knowledge of both relational and non-relational database systems by migrating an Optical Store Management System from SQL Server to a NoSQL database (MongoDB). This involves database design, modeling, data population, and programmatic migration, along with documentation and presentation of the entire process.
 
-Absolutely! Here's the **clean and corrected version** of your markdown project structure with proper formatting — including indentation, escaping, and readability:
-
 
 ## 📁 Project Structure
 
